@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums_Hamilton_Dakota", "Enums_Hamilton_Dakota\Enums_Hamilton_Dakota.csproj", "{72AEC8C7-BFE6-42D5-A963-A725EB2F815D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72AEC8C7-BFE6-42D5-A963-A725EB2F815D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AEC8C7-BFE6-42D5-A963-A725EB2F815D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AEC8C7-BFE6-42D5-A963-A725EB2F815D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AEC8C7-BFE6-42D5-A963-A725EB2F815D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C638693C-F63F-4581-9DD5-AB0CEE2AF81A}
+	EndGlobalSection
+EndGlobal
